@@ -38,3 +38,7 @@ To run it, you can run the following command:
 ```sh
 make run
 ```
+
+## Reference of Deep Learning model used in this project: 
+[Faster RCN Inception V2 COCO Model](https://medium.com/@madhawavidanapathirana/real-time-human-detection-in-computer-vision-part-2-c7eda27115c6)
+

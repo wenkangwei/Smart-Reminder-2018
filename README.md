@@ -1,4 +1,4 @@
-# Smart Reminder
+# Smart Reminder Link: https://devpost.com/software/smart-reminder#updates
 
 ## The Inspiration
 Yesterday morning, we met two new friends, colleague, and peers. We are software people but they are hardware people, which we thought was unique and interesting and we wanted to integrate them into our team.  While we have our differences we all spend a lot of time on the computer, as I'm sure many of you do as well. 
